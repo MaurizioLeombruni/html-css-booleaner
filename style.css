@@ -1,0 +1,23 @@
+.headerimg{
+    background-color: rgba(12, 116, 214, 0.685);
+    background-image: url(./assets/img/pattern.png);
+    background-attachment: fixed;
+    background-size: 400px 165px;
+}
+
+.logotype{
+    margin-top: 30px;
+    margin-left: 5px;
+    width:150px;
+}
+
+.subtitlegray{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    color:lightgray;
+}
+
+.nomargins{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
