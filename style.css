@@ -1,7 +1,8 @@
 .headerimg{
+    position: relative;
     background-color: rgba(12, 116, 214, 0.685);
     background-image: url(./assets/img/pattern.png);
-    background-attachment: fixed;
+    background-attachment:inherit;
     background-size: 400px 165px;
 }
 
@@ -32,6 +33,20 @@
 
 .cellbig{
     width:50%
+}
+
+.footerimg{
+    position: relative;
+    text-align: left;
+}
+
+.footertext{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    color:white;
+    position: absolute;
+    top: 8px;
+    left: 16px;
 }
 
 table, th, td{
